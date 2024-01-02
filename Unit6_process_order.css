@@ -1,0 +1,20 @@
+body {
+    background-color: cornsilk;
+}
+
+#receipt p {
+    margin: 8px;
+}
+
+#receipt {
+    width: 50%;
+    height: auto;
+    margin: 20px;
+    background-color: #E0DFD1;
+    border-style: dotted;
+}
+
+#order {
+    text-align: left;
+    text-indent: 30px;
+}

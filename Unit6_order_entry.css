@@ -1,0 +1,53 @@
+body {
+    background-color: cornsilk;
+}
+#personal_info {
+    width: 50%;
+}
+#personal_info fieldset {
+    border-width: 2px;
+}
+#personal_info legend {
+    background-color: #800015;
+    color: bisque;
+}
+.required {
+    display: inline;
+    color: red;
+}
+#product_info {
+    width: 50%;
+}
+#product_info legend {
+    background-color: #800015;
+    color: bisque;
+}
+#round_up p {
+    margin-bottom: 0;
+}
+button {
+    border-radius: 5px;
+}
+#clear {
+    color: whitesmoke;
+    background-color: red;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+#left {
+    width: 50%;
+    height: 420px;
+    float: left;
+}
+#right {
+    margin-left: 50%;
+    height: 420px;
+}
+#customerTable table {
+    border-collapse: collapse;
+}
+#customerTable th, td {
+    border: 1px solid black;
+    padding: 6px; 
+}

@@ -1,0 +1,43 @@
+body {
+    background-color: cornsilk;
+}
+#personal_info {
+    width: 50%;
+}
+#personal_info fieldset {
+    border-width: 2px;
+}
+#personal_info legend {
+    background-color: #800015;
+    color: bisque;
+}
+.required {
+    display: inline;
+    color: red;
+}
+#product_info {
+    width: 50%;
+}
+#product_info legend {
+    background-color: #800015;
+    color: bisque;
+}
+#round_up p {
+    margin-bottom: 0;
+}
+#image {
+    position: absolute;
+    top: 150px;
+    right: 20px;
+    height: 300px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 40%;
+}
+#image p {
+    padding: 0px 10px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}

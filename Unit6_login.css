@@ -1,0 +1,53 @@
+body {
+    background-color: cornsilk;
+}
+#error {
+    color: red;
+    font-weight: bolder;
+    font-size: 18px;
+}
+#login_form {
+    background-color: white;
+    border-style: solid;
+    margin: 10px;
+    width: 60%;
+    padding: 15px;
+}
+#login_form input {
+    height: 25px;
+}
+#login {
+    width: 80%;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 8px;
+    background-color: #800015;
+    color: bisque;
+    font-size: 16px;
+    margin-left: 60px;
+}
+#login:hover {
+    background-color: bisque;
+    color: #800015;
+}
+#forgot_pass {
+    float: right;
+}
+#guest {
+    width: 55%;
+    margin-bottom: 20px;
+    padding: 10px;
+    margin-left: 50px;
+    background-color: #800015;
+    color: bisque;
+    font-size: 16px;
+    border-radius: 8px;
+}
+#guest:hover {
+    background-color: bisque;
+    color: #800015;
+}
+#welcome {
+    margin-left: 20px;
+    font-size: 18px;
+}
